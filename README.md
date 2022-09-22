@@ -1,5 +1,5 @@
 # Animated Sign In Page
-Hi, this is simple animated sign in page that created using Html, CSS and JavaScript by me. I designed this to fully responsive to mobile, tablet and desktop version.
+Hi, this is a simple animated sign-in page that was created using Html, CSS and JavaScript by me. I designed this to be fully responsive to mobile, tablet and desktop versions.
 
 ## Languages Used:
 <ul>
